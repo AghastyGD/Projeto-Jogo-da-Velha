@@ -6,7 +6,7 @@ Enfim, divirta-se com os seus amigos!
 
 COMO JOGAR:
 
-Para jogar, use os teclados númericos do seu computador, o formato é: 789 (up) - 456 (centro) - 123 (down)
+Para jogar, use os teclados númericos do seu computador, o formato é: 7-8-9 (teclas de cima), 4-5-6 (teclas do centro), 1-2-3 (teclas de baixo)
                                                      
 RECURSOS:
 
